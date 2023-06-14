@@ -1,5 +1,5 @@
 # D2D-MNN-Edge-Intelligence
-
+Device-to-Device Modular Neural Network as part of the Edge Computing approach.
 ## Usage
 
 ### Dependencies
